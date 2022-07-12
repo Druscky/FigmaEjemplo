@@ -10,5 +10,9 @@ class Welcome : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         b = ActivityWelcomeBinding.inflate(layoutInflater)
         setContentView(b.root)
+
+        b.tvWelcome.setOnClickListener {
+            onBackPressed()
+        }
     }
 }

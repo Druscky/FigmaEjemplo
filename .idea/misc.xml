@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProject/FigmaEjemplo/app/src/main/res/drawable/btn_entrar.xml" value="0.2155" />
+        <entry key="..\:/AndroidStudioProject/FigmaEjemplo/app/src/main/res/drawable/edittext.xml" value="0.2155" />
         <entry key="..\:/AndroidStudioProject/FigmaEjemplo/app/src/main/res/drawable/rectangulo_1_esquina.xml" value="0.2265" />
+        <entry key="..\:/AndroidStudioProject/FigmaEjemplo/app/src/main/res/drawable/tvdemo.xml" value="0.2155" />
         <entry key="..\:/AndroidStudioProject/FigmaEjemplo/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProject/FigmaEjemplo/app/src/main/res/layout/activity_welcome.xml" value="0.3625" />
       </map>
     </option>
   </component>
