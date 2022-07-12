@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FigmaEjemplo</string>
+    <string name="Demo">DEMO</string>
+    <string name="etEmail">E-mail</string>
+    <string name="etPassword">Password</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="Welcome">WELCOME</string>
+
+
+</resources>
